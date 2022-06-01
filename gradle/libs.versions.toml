@@ -25,7 +25,7 @@ managed-mysql-driver = "8.0.29"
 
 # JDBC Pools
 
-managed-hikari = "4.0.3"
+managed-hikari = "5.0.1"
 managed-commons-dbcp = "2.9.0"
 managed-tomcat-jdbc = "10.0.20"
 
